@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Tajul Islam</h1>
+<h1 align="center">Hi 👋, I'm Nahar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" Width= "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **MERN, PHP, HTML, JS**
-
-- 📫 How to reach me **tajul.dev@gmail.com**
 
 - ⚡ Fun fact **I wanted to be a MERN Stack Developer but now i'm Php developer too. So Keep trying and set your goal and hit it.**
 
