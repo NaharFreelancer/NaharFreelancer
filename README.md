@@ -1,4 +1,4 @@
-[![MasterHead](https://www.obiyaninfotech.com/wp-content/uploads/2022/06/Website-Development.jpg)
+![MasterHead](https://www.obiyaninfotech.com/wp-content/uploads/2022/06/Website-Development.jpg)
 <h1 align="center">Hi 👋, I'm Nahar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" Width= "400" src="https://i2.wp.com/www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif?fit=350%2C197&ssl=1">
